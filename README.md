@@ -14,12 +14,12 @@ pip install require.txt -r (Только через консоль)
 запуск питона.py
 
 ---
-Телеграм канал: https://t.me/avencoresyt
-Ютуб канал: https://youtube.com/@avencores
-Дзен канал: https://dzen.ru/avencores
-Рутуб канал: https://rutube.ru/channel/34072414
-Группа в ВК: https://vk.com/avencoresvk
+- Телеграм канал: https://t.me/avencoresyt
+- Ютуб канал: https://youtube.com/@avencores
+- Дзен канал: https://dzen.ru/avencores
+- Рутуб канал: https://rutube.ru/channel/34072414
+- Группа в ВК: https://vk.com/avencoresvk
 
-⬇️Поддержать автора⬇️
-✅SBER: 2202 2050 7215 4401
-✅VTB: 2200 2404 1001 8580
+- ⬇️Поддержать автора⬇️
+- ✅SBER: 2202 2050 7215 4401
+- ✅VTB: 2200 2404 1001 8580
