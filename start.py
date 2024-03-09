@@ -8,8 +8,6 @@ class Start:
     def __init__(self):
         just_fix_windows_console()
         print(Fore.BLUE + Style.BRIGHT + "·▄▄▄▄  ▪  ▄▄▄  ▄▄▄▄▄ ▄· ▄▌    ▄▄▄▄·       • ▌ ▄ ·. ▄▄▄▄· ▄▄▄ .▄▄▄  \n██▪ ██ ██ ▀▄ █·•██  ▐█▪██▌    ▐█ ▀█▪▪     ·██ ▐███▪▐█ ▀█▪▀▄.▀·▀▄ █·\n" + Fore.YELLOW + Style.BRIGHT + "▐█· ▐█▌▐█·▐▀▀▄  ▐█.▪▐█▌▐█▪    ▐█▀▀█▄ ▄█▀▄ ▐█ ▌▐▌▐█·▐█▀▀█▄▐▀▀▪▄▐▀▀▄ \n██. ██ ▐█▌▐█•█▌ ▐█▌· ▐█▀·.    ██▄▪▐█▐█▌.▐▌██ ██▌▐█▌██▄▪▐█▐█▄▄▌▐█•█▌\n▀▀▀▀▀• ▀▀▀.▀  ▀ ▀▀▀   ▀ •     ·▀▀▀▀  ▀█▄▀▪▀▀  █▪▀▀▀·▀▀▀▀  ▀▀▀ .▀  ▀" + Style.RESET_ALL)
-        time.sleep(5)
-        webbrowser.open("https://t.me/dirtybomber")
         os.system('cls' if os.name == 'nt' else 'clear')
         Menu().mainMenu()
 
