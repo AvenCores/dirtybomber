@@ -13,6 +13,7 @@ pip install require.txt -r (Только через консоль)
 3. Файл запуска start.py, yдля запуска через консоль
 запуск питона.py
 
+---
 Телеграм канал: https://t.me/avencoresyt
 Ютуб канал: https://youtube.com/@avencores
 Дзен канал: https://dzen.ru/avencores
